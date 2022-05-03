@@ -8,7 +8,8 @@ import java.util.*;
  * @author XuBang
  * @version 1.0
  * @date 2022/4/23 11:22 AM
- * @Description 中序遍历
+ * @Description 中序遍历（面试火热题）LeetCode-94
+ * 同时包括：前序遍历（面试火热题）&后续遍历
  */
 public class InorderTraversal {
 }
